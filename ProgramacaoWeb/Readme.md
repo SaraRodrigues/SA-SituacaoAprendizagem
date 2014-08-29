@@ -2,3 +2,4 @@
 SaraRodrigues
 Brunadasilva
 Stephanie
+Karina
